@@ -1,5 +1,5 @@
-// Name: Rohan Sethi
-// SID: 110133645
+// Name: Vidushi Chauhan
+// SID: 110133705
 // Section: 4
 
 #include <stdio.h>
